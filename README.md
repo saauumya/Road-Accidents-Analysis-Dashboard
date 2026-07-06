@@ -11,13 +11,14 @@ How did the number of casualties vary across different road types?
 What is the distribution of casualties based on accident severity?
 How did the casualties differ between urban and rural areas and in different light conditions?
 Which day of the week witnessed the highest and lowest number of accidents?
+
 3. Data wrangling and Preprocessing
 To ensure the accuracy and usability of the road accidents data, several data transformation steps were performed:
 
 Handling Missing Values: Missing values were identified and imputed.
 Removing Duplicates: Duplicated records were removed to avoid inaccuracies in the analysis.
 Data Modelling: The dataset was structured and modeled in a way that allowed for easy integration into the Power BI dashboard. Relevant data columns were selected and organized to support various visualizations.
-
+<img width="1768" height="926" alt="image" src="https://github.com/user-attachments/assets/68474aef-3f53-45b4-90a9-17804fb437e2" />
 
 
 4. Data Analysis and Visualization
@@ -28,10 +29,7 @@ The data analysis and visualization were carried out through an interactive Powe
 Total Casualties and Total Accidents for Current Year and total Growth from Previous Year.
 Total Casualties By Accident Severity for Current Year and Growth from Previous Year.
 Total Casualties with Respect to Vehicle Type for Current Year.
-NB: Negative growth indicates reduction of total casualties and accidents from PY 
-The overall number of casualties and accidents decreased in 2022 compared to 2021, indicating a positive trend in road safety.
-
-
+<img width="2224" height="208" alt="image" src="https://github.com/user-attachments/assets/fe7bcab6-14da-4f7b-adc6-f890f9397d30" />
 
 
 The KPI above presents the total number of casualties attributed to different vehicle types for the current year. Cars have the highest involvement in accidents, highlighting the importance of promoting safer driving practices and vehicle safety measures.
