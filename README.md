@@ -30,18 +30,24 @@ Total Casualties and Total Accidents for Current Year and total Growth from Prev
 Total Casualties By Accident Severity for Current Year and Growth from Previous Year.
 Total Casualties with Respect to Vehicle Type for Current Year.
 <img width="2224" height="208" alt="image" src="https://github.com/user-attachments/assets/fe7bcab6-14da-4f7b-adc6-f890f9397d30" />
+<img width="468" height="970" alt="image" src="https://github.com/user-attachments/assets/8db704d5-ba6a-4d09-a4f4-65cabd7188a9" />
+
 
 
 The KPI above presents the total number of casualties attributed to different vehicle types for the current year. Cars have the highest involvement in accidents, highlighting the importance of promoting safer driving practices and vehicle safety measures.
 
 4.2 Visualizations:
 a. Monthly Trend of Casualties for Current Year and Previous Year
+<img width="946" height="466" alt="image" src="https://github.com/user-attachments/assets/f17b7594-2443-46bf-8267-53830b0c82d1" />
+
 
 The chart above illustrates the monthly trend of casualties for 2021 and 2022. It shows that casualties decreased in 2022 compared to the previous year, indicating improved road safety measures.
 
 
 
 b. Comparison of Casualties in Urban\Rural Areas and by Light Conditions
+<img width="1028" height="496" alt="image" src="https://github.com/user-attachments/assets/25ab6579-5c2f-4537-a789-6f28f55ce849" />
+
  
 According the above visuals; i. Urban areas experienced a higher number of casualties, suggesting the need for targeted safety initiatives in city settings.
 ii. More accidents occur during the day, indicating a potential focus on improving safety during nighttime hours.
@@ -49,12 +55,16 @@ ii. More accidents occur during the day, indicating a potential focus on improvi
 
 
 c. Casualties by Day of the Week:
+<img width="944" height="502" alt="image" src="https://github.com/user-attachments/assets/e68b4201-b190-46c7-a3da-5d8cea2c25e0" />
+
 
 The chart above presents the number of casualties reported on each day of the week. Saturdays consistently witness the highest number of accidents, suggesting targeted awareness campaigns on weekends.
 
 
 
 d. Casualties by road type:
+<img width="580" height="1002" alt="image" src="https://github.com/user-attachments/assets/140a97b5-6b0a-4d3c-a993-576f123aec3c" />
+
 
 The chart above displays the distribution of casualties across different road types. Single Carriageways have the highest number of casualties, highlighting the need for better road infrastructure and safety measures on these roads.
 
@@ -70,5 +80,7 @@ Monitor Urban Areas: Pay attention to urban areas and implement measures to impr
 Continuous Monitoring: Regularly update and monitor road accidents data to assess the effectiveness of implemented measures and make data-driven decisions.
 By implementing these recommendations, stakeholders can work towards reducing casualties, promoting road safety, and creating a safer environment for all road users. The interactive Power BI dashboard provides an efficient tool to track progress and make informed decisions for road safety improvement initiatives.
 Final Dashboard Report
+<img width="2210" height="1236" alt="image" src="https://github.com/user-attachments/assets/8a049268-4bab-4e5e-8de0-bf3b122b2a3b" />
+
 
 
